@@ -1,0 +1,6 @@
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\Pertemuan 02\CalculatorApp\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\Pertemuan 02\CalculatorApp\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\Pertemuan 02\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csprojAssemblyReference.cache
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\Pertemuan 02\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\Pertemuan 02\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+D:\SEMESTER 3\PEMROGRAMAN\PRAKTIKUM\Pertemuan 02\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.pdb
